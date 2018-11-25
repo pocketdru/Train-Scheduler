@@ -1,0 +1,40 @@
+body {
+    background-image: url("../images/diagonales_decalees.png");
+}
+
+.jumbotron {
+    background-color: none;
+    padding: 30px;
+}
+
+.display-4, .lead{
+    text-align: center;
+}
+
+.lead {
+    margin: 10px;
+}
+
+form {
+    border: 3px solid rgb(151, 178, 214);
+}
+
+form h2, .table h2 {
+    background-color: rgb(151, 178, 214);
+    text-align: center;
+    font-family: BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 1.5em;
+}
+
+.form-group {
+    margin: 15px;
+}
+
+form button {
+    margin: 15px;
+}
+
+table {
+    border: 3px solid rgb(151, 178, 214);
+    border-radius: 10px;
+}
